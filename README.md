@@ -39,4 +39,3 @@ Online shops collect a huge amount of data, but a table of rows does not tell yo
 - **Preferred payment methods:** a treemap of the online shopping behaviour dataset, grouped by price range (1000-5000, 5000-10000 and 10000+).
 - **Most used device for shopping:** a line chart of return rate (%), with a dropdown to switch device. Hovering shows the payment method and the most purchased category.
 
-Video: [E-commerce_Dashboard.mp4](E-commerce_Dashboard.mp4)
